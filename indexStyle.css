@@ -1,0 +1,23 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Secular One', sans-serif;                                    
+}
+
+header{
+    background-color: #404f56;
+}
+#LogoUniversidad{
+    width: 30%;
+}
+.encabezado{
+    width: 940px;
+    display: flex;
+    margin: 0 auto;
+    color: #ffffff;
+    position: relative;
+}
+#Titulo{
+    flex-grow:1;
+    text-align:center;
+    margin: auto 40px;
+}
